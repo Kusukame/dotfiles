@@ -20,7 +20,7 @@ Plugin 'osyo-manga/vim-watchdogs'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'soramugi/auto-ctags.vim'
 Plugin 'sickill/vim-monokai'
-
+Plugin 'valloric/youcompleteme'
 
 call vundle#end()
 filetype plugin indent on
