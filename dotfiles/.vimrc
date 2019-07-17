@@ -36,7 +36,7 @@ syntax enable
 colorscheme monokai
 
 " setting
-set fenc=utf-8
+set encoding=utf-8
 set nobackup
 set noswapfile
 set autoread
